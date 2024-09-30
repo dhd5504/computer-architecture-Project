@@ -8,7 +8,7 @@ Members:
 Programming Language: Assembly Language  
 
 Description:  
-
+  + Use Assembly Language
 Problem Requirements:  
 • Write a program to draw a circular ball that moves on the Bitmap simulation screen in Mars.  
 • If the object hits the edge of the screen, it will move in the opposite direction. Set the screen size to 512x512 with a 1x1 pixel size.  
