@@ -3,7 +3,6 @@ Issue 2: Drawing on the Bitmap Screen
 
 Members:  
   + Đỗ Hoàng Đông  
-  + Nguyễn Anh Minh  
 
 Programming Language: Assembly Language  
 
